@@ -1,0 +1,21 @@
+   {
+       "user1": {
+           "id": 5577383898,
+           "login": "pedro",
+           "name": "Pedro Ramirez",
+           "age": 35
+       },
+       "user2": {
+           "id": 67734662772,
+           "login": "paul",
+           "name": "Paul Fontanie",
+           "age": 42
+       },
+       "user3": {
+           "id": 72882728822,
+           "login": "maro",
+           "name": "Marius Katou",
+           "age": 12
+       }
+
+   }
