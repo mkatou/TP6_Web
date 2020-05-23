@@ -155,7 +155,7 @@ describe('Alerts tests', () => {
         chai
             .request(app)
             .patch('/alerts/45745c60-7b1a-11e8-9c9c-2d42b21b1a3e')
-            .send({ name: 'Robertinio' })
+            .send({ name: 'Apache 2.0' })
             .end((err, res) => {
                 res
                     .should
